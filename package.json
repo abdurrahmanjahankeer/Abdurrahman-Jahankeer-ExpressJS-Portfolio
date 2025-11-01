@@ -1,0 +1,25 @@
+{
+  "name": "abdurrahman-jahankeer-expressjs-portfolio",
+  "version": "1.0.0",
+  "description": "This is my first node Javascript Portfolio",
+  "homepage": "https://github.com/abdurrahmanjahankeer/Abdurrahman-Jahankeer-ExpressJS-Portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/abdurrahmanjahankeer/Abdurrahman-Jahankeer-ExpressJS-Portfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdurrahmanjahankeer/Abdurrahman-Jahankeer-ExpressJS-Portfolio.git"
+  },
+  "license": "ISC",
+  "author": "Abdurrahman Jahankeer",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {}
+}
