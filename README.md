@@ -17,12 +17,12 @@ https://abdurrahman-jahankeer-expressjs-portfolio.onrender.com/
 - Contact Page
 
 ## Stylesheets
-- Main Stylesheet:
--   app.css
-- Responsive design for mobile, tablet, and desktop:
--   mobile.css
--   tablet.css
--   full.css
+Main Stylesheet:
+- app.css
+Responsive design for mobile, tablet, and desktop:
+- mobile.css
+- tablet.css
+- full.css
 
 ## Technologies
 - Node.js -- v25.1.0
