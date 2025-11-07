@@ -1,5 +1,4 @@
-//IIFI
-// Immediately invoed function expression
+//IIFI or Immediately invoed function expression
 (function(){
     function start(){
         console.log("App started...")

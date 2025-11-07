@@ -14,7 +14,7 @@
   "author": "Abdurrahman Jahankeer",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node Abdurrahman-Jahankeer-ExpressJS-Portfolio/server.js"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.1",
