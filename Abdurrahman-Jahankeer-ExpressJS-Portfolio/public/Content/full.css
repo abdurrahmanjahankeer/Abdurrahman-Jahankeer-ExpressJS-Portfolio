@@ -1,0 +1,155 @@
+/* Full-Size Styles - Laptops and Desktops (min-width: 961px) */
+
+/* Home page navigation bar at the bottom */
+.box {
+    width: 200px;
+    height: 100px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: black;
+    border-radius: 75px;
+}
+
+.bottom-links a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    line-height: 100px;
+    font-size: 20px;
+}
+
+.box:hover {
+    background-color: rgb(93, 0, 255);
+}
+
+/* About Page Full */
+.page-title {
+    font-size: 36px;
+}
+
+.intro-text h4 {
+    font-size: 20px;
+}
+.picture-box {
+    text-align: center;
+    width: 100%;
+}
+
+figure {
+    width: 210px;
+    margin: 20px auto;
+    display: block;
+    padding: 5px;
+    background-color: white;
+    border: 2px solid black;
+    text-align: center;
+}
+
+figure img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+}
+
+figcaption h6 {
+    font-size: 14px;
+}
+
+.intro h3 {
+    font-size: 20px;
+}
+
+.vid video {
+    width: 640px;
+    height: 480px;
+}
+
+.games-info h3 {
+    font-size: 18px;
+}
+
+.resume-section h2 {
+    font-size: 28px;
+}
+
+.resume-section h4 {
+    font-size: 20px;
+}
+
+.resume-section p,
+.resume-section li {
+    font-size: 16px;
+}
+
+/* Projects Page Full */
+.project-item {
+    width: 600px;
+    font-size: 23px;
+    padding: 15px 20px;
+}
+
+.project-num {
+    padding: 5px 12px;
+}
+
+/* Project Detail Pages Full */
+.project-explanation {
+    width: 70%;
+    font-size: 22px;
+}
+
+.project-explanation h4 {
+    font-size: 20px;
+}
+
+.project-partners h3 {
+    font-size: 18px;
+}
+
+.project-nav-links {
+    width: 600px;
+}
+
+.project-nav-box {
+    width: 150px;
+    padding: 10px;
+}
+
+.project-nav-box a {
+    font-size: 16px;
+}
+
+/* Contact Page Full */
+.contact-page .form-control {
+    font-size: 16px;
+}
+
+.contact-page .form-label {
+    font-size: 16px;
+}
+
+.contact-page button {
+    width: 80px;
+    height: 30px;
+    font-size: 16px;
+}
+
+/* Navbar Full */
+.navbar-brand {
+    font-size: 24px;
+}
+
+.nav-link {
+    font-size: 16px;
+}
+
+/* Footer Full */
+.footer p {
+    font-size: 16px;
+}
+
+.social-media-links a i {
+    font-size: 32px;
+}

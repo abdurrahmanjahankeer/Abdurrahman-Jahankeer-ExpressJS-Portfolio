@@ -1,0 +1,164 @@
+/* Tablet Styles - Between 481px and 960px */
+
+h1 {
+    font-size: 26px;
+    text-align: center;
+}
+
+h2, h3 {
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Home page navigation bar at the bottom */
+.box {
+    width: 150px;
+    height: 60px;
+    margin: 15px auto;
+    background: black;
+    border-radius: 75px;
+    text-align: center;
+}
+
+.box a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 60px;
+}
+
+/* About Page Tablet */
+.page-title {
+    font-size: 30px;
+}
+
+.intro-text h4 {
+    font-size: 18px;
+}
+
+.picture-box {
+    text-align: center;
+    width: 100%;
+}
+
+figure {
+    width: 180px;
+    margin: 20px auto;
+    display: block;
+    padding: 5px;
+    background-color: white;
+    border: 2px solid black;
+    text-align: center;
+}
+
+figure img {
+    width: 170px;
+    height: 170px;
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+}
+
+figcaption h6 {
+    font-size: 13px;
+}
+
+.intro h3 {
+    font-size: 18px;
+}
+
+.vid video {
+    width: 80%;
+    height: auto;
+}
+
+.games-info h3 {
+    font-size: 16px;
+}
+
+.resume-section h2 {
+    font-size: 24px;
+}
+
+.resume-section h4 {
+    font-size: 18px;
+}
+
+.resume-section p,
+.resume-section li {
+    font-size: 15px;
+}
+
+/* Projects Page Tablet */
+.project-item {
+    width: 80%;
+    font-size: 18px;
+    margin: 15px auto;
+    padding: 13px 18px;
+}
+
+.project-num {
+    padding: 5px 11px;
+    font-size: 16px;
+}
+
+/* Project Detail Pages Tablet */
+.project-explanation {
+    width: 80%;
+    font-size: 16px;
+}
+
+.project-explanation h4 {
+    font-size: 16px;
+}
+
+.project-partners h3 {
+    font-size: 16px;
+}
+
+.project-nav-links {
+    width: 80%;
+}
+
+.project-nav-box {
+    width: 130px;
+    padding: 10px;
+}
+
+.project-nav-box a {
+    font-size: 14px;
+}
+
+/* Contact Page Tablet */
+.contact-page .form-control {
+    font-size: 15px;
+}
+
+.contact-page .form-label {
+    font-size: 15px;
+}
+
+.contact-page button {
+    font-size: 15px;
+}
+
+/* Navbar Tablet */
+.navbar-brand {
+    font-size: 22px;
+}
+
+.nav-link {
+    font-size: 15px;
+}
+
+/* Footer Tablet */
+.footer p {
+    font-size: 14px;
+}
+
+.social-media-links a i {
+    font-size: 28px;
+}

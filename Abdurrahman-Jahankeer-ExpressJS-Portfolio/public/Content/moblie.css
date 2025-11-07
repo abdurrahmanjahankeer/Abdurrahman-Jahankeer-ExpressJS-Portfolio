@@ -1,0 +1,176 @@
+/* Mobile Styles - Smartphones (max-width: 480px) */
+
+h1 {
+    font-size: 18px;
+    text-align: center;
+}
+
+h2, h3 {
+    font-size: 16px;
+    text-align: center;
+}
+
+/* Home page navigation bar at the bottom */
+.box {
+    width: 120px;
+    height: 50px;
+    margin: 10px auto;
+    background: black;
+    border-radius: 75px;
+    text-align: center;
+}
+
+.box a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+    line-height: 50px;
+}
+
+/* About Page Mobile */
+.page-title {
+    font-size: 24px;
+}
+
+.intro-text h4 {
+    font-size: 16px;
+}
+
+.picture-box {
+    text-align: center;
+    width: 100%;
+}
+
+figure {
+    width: 150px;
+    margin: 20px auto;
+    display: block;
+    padding: 5px;
+    background-color: white;
+    border: 2px solid black;
+    text-align: center;
+}
+
+figure img {
+    width: 140px;
+    height: 140px;
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+}
+
+figcaption h6 {
+    font-size: 12px;
+}
+
+.intro h3 {
+    font-size: 16px;
+}
+
+.vid video {
+    width: 90%;
+    height: auto;
+}
+
+.games-info h3 {
+    font-size: 14px;
+}
+
+.resume-section {
+    padding: 15px;
+}
+
+.resume-section h2 {
+    font-size: 22px;
+}
+
+.resume-section h4 {
+    font-size: 16px;
+}
+
+.resume-section p,
+.resume-section li {
+    font-size: 14px;
+}
+
+/* Projects Page Mobile */
+.project-item {
+    width: 90%;
+    font-size: 14px;
+    margin: 10px auto;
+    padding: 12px 15px;
+}
+
+.project-num {
+    padding: 4px 10px;
+    font-size: 14px;
+}
+
+/* Project Detail Pages Mobile */
+.project-explanation {
+    width: 90%;
+    font-size: 14px;
+}
+
+.project-explanation h4 {
+    font-size: 14px;
+}
+
+.project-partners h3 {
+    font-size: 14px;
+}
+
+.project-nav-links {
+    width: 90%;
+}
+
+.project-nav-box {
+    width: 100px;
+    margin: 0 2px;
+    padding: 8px;
+}
+
+.project-nav-box a {
+    font-size: 12px;
+}
+
+/* Contact Page Mobile */
+.contact-page .form-control {
+    font-size: 14px;
+}
+
+.contact-page .form-label {
+    font-size: 14px;
+}
+
+.contact-page button {
+    font-size: 14px;
+    padding: 8px 15px;
+    width: 70px;
+    height: 25px;
+}
+
+/* Footer Mobile */
+.footer {
+    padding: 20px 0;
+}
+
+.footer p {
+    font-size: 12px;
+}
+
+.social-media-links a i {
+    font-size: 24px;
+}
+
+/* Navbar Mobile */
+.navbar-brand {
+    font-size: 18px;
+}
+
+.nav-link {
+    font-size: 14px;
+}
